@@ -52,3 +52,10 @@
 ![기후변화와 취약계층 위험성 분석_시각화_17](https://github.com/user-attachments/assets/b0437410-633a-424f-af27-a96789c52246)
 ![기후변화와 취약계층 위험성 분석_시각화_18](https://github.com/user-attachments/assets/0367cfbe-cecf-4036-85cb-e045513df08d)
 ![기후변화와 취약계층 위험성 분석_시각화_19](https://github.com/user-attachments/assets/ddc6a61f-b62c-41f9-98dd-34ae7a25e202)
+
+## 데이터 목록 및 참고 문헌
+### 데이터 목록
+![기후변화와 취약계층 위험성 분석_시각화_20](https://github.com/user-attachments/assets/8130a940-b0df-4c7b-b2c8-cc7884f0bd30)
+
+## 참고 문헌
+![기후변화와 취약계층 위험성 분석_시각화_21](https://github.com/user-attachments/assets/47267690-a744-4aed-8b31-2f3a121c13e7)
